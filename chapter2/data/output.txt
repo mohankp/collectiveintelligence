@@ -1,0 +1,95 @@
+Summary for metric  euclidean
+
+    Gene Seymour,Jack Matthews=0.500000
+ Michael Phillips,Claudia Puig=0.866025
+    Lisa Rose,Michael Phillips=1.118034
+        Lisa Rose,Mick LaSalle=1.414214
+             Mick LaSalle,Toby=1.500000
+        Lisa Rose,Claudia Puig=1.581139
+ Michael Phillips,Mick LaSalle=1.581139
+         Michael Phillips,Toby=1.581139
+             Claudia Puig,Toby=1.802776
+                Lisa Rose,Toby=1.870829
+       Lisa Rose,Jack Matthews=1.936492
+ Gene Seymour,Michael Phillips=1.936492
+Michael Phillips,Jack Matthews=2.121320
+    Claudia Puig,Jack Matthews=2.121320
+     Claudia Puig,Mick LaSalle=2.179449
+        Lisa Rose,Gene Seymour=2.397916
+    Mick LaSalle,Jack Matthews=2.500000
+     Gene Seymour,Claudia Puig=2.549510
+     Gene Seymour,Mick LaSalle=2.598076
+            Jack Matthews,Toby=2.738613
+             Gene Seymour,Toby=2.872281
+
+Summary for metric  jaccard
+
+    Gene Seymour,Jack Matthews=0.200000
+        Lisa Rose,Claudia Puig=0.400000
+    Mick LaSalle,Jack Matthews=0.400000
+    Lisa Rose,Michael Phillips=0.500000
+        Lisa Rose,Gene Seymour=0.666667
+     Gene Seymour,Mick LaSalle=0.666667
+             Claudia Puig,Toby=0.666667
+       Lisa Rose,Jack Matthews=0.800000
+     Gene Seymour,Claudia Puig=0.800000
+        Lisa Rose,Mick LaSalle=0.833333
+                Lisa Rose,Toby=1.000000
+ Gene Seymour,Michael Phillips=1.000000
+             Gene Seymour,Toby=1.000000
+ Michael Phillips,Claudia Puig=1.000000
+ Michael Phillips,Mick LaSalle=1.000000
+Michael Phillips,Jack Matthews=1.000000
+         Michael Phillips,Toby=1.000000
+     Claudia Puig,Mick LaSalle=1.000000
+    Claudia Puig,Jack Matthews=1.000000
+             Mick LaSalle,Toby=1.000000
+            Jack Matthews,Toby=1.000000
+
+Summary for metric  cosine
+
+ Michael Phillips,Claudia Puig=0.000104
+    Gene Seymour,Jack Matthews=0.001437
+       Lisa Rose,Jack Matthews=0.008724
+         Michael Phillips,Toby=0.009170
+        Lisa Rose,Claudia Puig=0.013413
+    Lisa Rose,Michael Phillips=0.014014
+        Lisa Rose,Mick LaSalle=0.018169
+     Claudia Puig,Mick LaSalle=0.024052
+             Mick LaSalle,Toby=0.026384
+ Michael Phillips,Mick LaSalle=0.028886
+ Gene Seymour,Michael Phillips=0.031091
+    Mick LaSalle,Jack Matthews=0.032287
+Michael Phillips,Jack Matthews=0.032780
+    Claudia Puig,Jack Matthews=0.036480
+        Lisa Rose,Gene Seymour=0.039354
+     Gene Seymour,Mick LaSalle=0.044309
+             Claudia Puig,Toby=0.044594
+                Lisa Rose,Toby=0.047107
+     Gene Seymour,Claudia Puig=0.051934
+            Jack Matthews,Toby=0.068195
+             Gene Seymour,Toby=0.085942
+
+Summary for metric  correlation
+
+ Michael Phillips,Claudia Puig=0.000000
+                Lisa Rose,Toby=0.008759
+    Gene Seymour,Jack Matthews=0.036204
+             Mick LaSalle,Toby=0.075527
+             Claudia Puig,Toby=0.106595
+       Lisa Rose,Jack Matthews=0.252982
+            Jack Matthews,Toby=0.337151
+        Lisa Rose,Mick LaSalle=0.405911
+        Lisa Rose,Claudia Puig=0.433053
+     Claudia Puig,Mick LaSalle=0.433053
+     Gene Seymour,Mick LaSalle=0.588235
+    Lisa Rose,Michael Phillips=0.595480
+        Lisa Rose,Gene Seymour=0.603941
+             Gene Seymour,Toby=0.618754
+     Gene Seymour,Claudia Puig=0.685030
+    Mick LaSalle,Jack Matthews=0.788711
+ Gene Seymour,Michael Phillips=0.795402
+Michael Phillips,Jack Matthews=0.865160
+    Claudia Puig,Jack Matthews=0.971429
+ Michael Phillips,Mick LaSalle=1.258199
+         Michael Phillips,Toby=2.000000
